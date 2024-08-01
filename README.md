@@ -16,5 +16,5 @@ Passionate by coding, im in a career change and i want to make code my job . Tha
 
 <h3 align="left">Social media</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patrice-catinat-227aba16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maureen-martin-onetti/" height="15" width="20" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/patrice-catinat-227aba16a/)
 </p>
