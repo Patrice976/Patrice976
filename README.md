@@ -16,5 +16,5 @@ Passionate by coding, im in a career change and i want to make code my job . Tha
 
 <h3 align="left">Social media</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/patrice-catinat-227aba16a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/patrice-catinat-227aba16a/)]
 </p>
