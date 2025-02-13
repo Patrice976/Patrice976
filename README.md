@@ -60,14 +60,3 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
   *Let's build something amazing together!*
 </div>
 
-
-
----
-
-> "Coder, c'est résoudre des problèmes avec créativité et passion."  
-  *“Coding is solving problems with creativity and passion.”*
-
-<div align="center">
-✨ Construisons quelque chose d'incroyable ensemble ! 🚀  
-  *Let's build something amazing together!*
-</div>
