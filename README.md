@@ -43,7 +43,7 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
 ---
 
 ### 🛡️ Mon activité sur GitHub :  
-![GitHub Contribution Grid](https://ghchart.rshah.org/Patrice976)  
+![GitHub Contribution Grid](https://ghchart.rshah.org/2EC866/Patrice976)  
 
 
 ---
