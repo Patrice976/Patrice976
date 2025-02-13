@@ -43,7 +43,23 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
 ---
 
 ### 🛡️ Mon activité sur GitHub :  
-![GitHub Contribution Grid](https://ghchart.rshah.org/2EC866/Patrice976)  
+![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=Patrice976&theme=react-dark&hide_border=true&area=true)  
+
+---
+
+### 🏆 Trophées GitHub :  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Patrice976&column=3&theme=onedark&no-frame=true&no-bg=true&margin-w=15)  
+
+---
+
+> "Coder, c'est résoudre des problèmes avec créativité et passion."  
+  *“Coding is solving problems with creativity and passion.”*
+
+<div align="center">
+✨ Construisons quelque chose d'incroyable ensemble ! 🚀  
+  *Let's build something amazing together!*
+</div>
+
 
 
 ---
