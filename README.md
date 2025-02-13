@@ -42,9 +42,21 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
 
 ---
 
-### 🎯 Fonctionnalités GitHub :  
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Patrice976&theme=onedark&no-bg=true&no-frame=true)  
-*Des trophées pour mettre en valeur mes accomplissements GitHub !*  
+### 🎨 Animations SVG dynamiques :  
+![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)  
+*Une animation de mes contributions GitHub !*  
+
+---
+
+### 🏅 Badges de contribution :  
+![Contributions](https://komarev.com/ghpvc/?username=Patrice976&color=blue) ![Commits](https://img.shields.io/github/commit-activity/m/Patrice976)  
+*Affichage dynamique de mes contributions et activité !*  
+
+---
+
+### 🏆 Trophées GitHub sélectionnés :  
+![Trophée Collaborateur](https://github-profile-trophy.vercel.app/?username=Patrice976&column=1&theme=onedark&no-bg=true&title=Collaborator)  
+*Pour mes contributions et collaborations !*
 
 ---
 
@@ -55,4 +67,5 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
 ✨ Construisons quelque chose d'incroyable ensemble ! 🚀  
   *Let's build something amazing together!*
 </div>
+
 
