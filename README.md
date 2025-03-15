@@ -60,6 +60,5 @@ Je suis Patrice Catinat, jeune papa passionné par le développement web, toujou
 
 ---
 
-💬 *«  Apprendre constamment, c'est grandir éternellement. »*
-*Constant learning means eternal growth.*
+💬 *«  Apprendre constamment, c'est grandir éternellement. »*<br> *Constant learning means eternal growth.*
 
