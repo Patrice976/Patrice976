@@ -1,7 +1,7 @@
 <div align="center">
-  
-# Bonjour, je m'appelle Patrice ☀️  
-*Hello, my name is Patrice ☀️*
+
+# Bonjour, je suis Patrice Catinat, jeune papa passionné par le développement web ☀️  
+*Hello, I'm Patrice Catinat, a young dad passionate about web development ☀️*
 
 </div>
 
@@ -11,34 +11,42 @@
 ### Bienvenue sur mon GitHub ! 🚀  
 *Welcome to my GitHub!*  
 
-Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !  
-*I'm Patrice, a passionate developer always eager to learn and create!*
+Je suis Patrice Catinat, jeune papa passionné par le développement web, toujours enthousiaste à l'idée d'apprendre de nouvelles choses et de progresser.  
+*I'm Patrice Catinat, a young dad passionate about web development, always enthusiastic about learning new things and growing my skills.*
 </div>
 
 ---
 
-### 🚀 Compétences techniques :  
-*Tech Stack:*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 🚀 Ma stack technique :  
+*My tech stack:*  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🌟 Ce que j'adore :  
-*What I love:*  
-- 🎨 Créer et designer des applications web  
-  *Creating and designing web apps*  
-- 💻 Intégrer et développer des interfaces fluides  
-  *Integrating and developing smooth interfaces*  
-- 🛠️ Résoudre des bugs et des problèmes  
-  *Debugging and problem-solving*  
-- 📖 Apprendre de nouvelles technologies  
-  *Always learning new things*
+### 🧡 Ce que je préfère dans le développement :  
+*What I enjoy most in development:*  
+- 🎨 Concevoir des interfaces intuitives et ergonomiques  
+  *Designing intuitive and ergonomic interfaces*  
+- 🚀 Améliorer l'expérience utilisateur  
+  *Improving user experience*  
+- 🐞 Faire face aux bugs et les résoudre efficacement  
+  *Facing and effectively resolving bugs*  
+- ✨ Créer des animations immersives  
+  *Creating immersive animations*
+
 
 ---
 
 ### 📫 Contactez-moi :  
 *Contact me:*  
-📧 [catinatp@gmail.com](mailto:catinatp@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/patrice-catinat/) | 🌐 [Portfolio](https://portfolio-catinat-patrice.vercel.app/)
+📧 [catinatp@gmail.com](mailto:catinatp@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/patrice-catinat/) | [GitHub](https://github.com/Patrice976)
 
 ---
 
@@ -48,15 +56,13 @@ Je suis Patrice, un développeur passionné, curieux d'apprendre et de créer !
 ---
 
 ### 🏆 Trophées GitHub :  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Patrice976&column=3&theme=onedark&no-frame=true&no-bg=true&margin-w=15)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Patrice976&column=4&theme=gruvbox)
 
 ---
 
-> "Coder, c'est résoudre des problèmes avec créativité et passion."  
-  *“Coding is solving problems with creativity and passion.”*
+💬 *« Le seul risque que tu prends en essayant, c'est de finir au même point que si tu n'avais pas essayé. »*
 
 <div align="center">
 ✨ Construisons quelque chose d'incroyable ensemble ! 🚀  
-  *Let's build something amazing together!*
+*Let's build something amazing together!*
 </div>
-
