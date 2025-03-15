@@ -60,9 +60,6 @@ Je suis Patrice Catinat, jeune papa passionné par le développement web, toujou
 
 ---
 
-💬 *« Le seul risque que tu prends en essayant, c'est de finir au même point que si tu n'avais pas essayé. »*
+💬 *«  Apprendre constamment, c'est grandir éternellement. »*
+*Constant learning means eternal growth.*
 
-<div align="center">
-✨ Construisons quelque chose d'incroyable ensemble ! 🚀  
-*Let's build something amazing together!*
-</div>
