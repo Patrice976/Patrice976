@@ -55,10 +55,5 @@ Je suis Patrice Catinat, jeune papa passionné par le développement web, toujou
 
 ---
 
-### 🏆 Trophées GitHub :  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Patrice976&column=4&theme=gruvbox)
-
----
-
 💬 *«  Apprendre constamment, c'est grandir éternellement. »*<br> *Constant learning means eternal growth.*
 
